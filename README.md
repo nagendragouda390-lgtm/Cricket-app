@@ -1,38 +1,16 @@
-# Cricket App Documentation
+# IPL 20-Over Match Analysis
 
-## IPL 20-Over Match Analysis
+## Match Overview
+This document provides an analysis of the 20-over match played between Gujarat Titans and Punjab Kings.
 
-This document provides an analysis of the IPL match between Gujarat Titans and Punjab Kings, utilizing matplotlib for visualization.
+## Key Performance Indicators
+- **Gujarat Titans:** 
+  - Total score: 190 for 6 in 20 overs
+  - Best Batsman: Player A - 75 runs in 45 balls
 
-### Overview
-The Indian Premier League (IPL) is a professional Twenty20 cricket league in India. In this analysis, we will review a match between Gujarat Titans and Punjab Kings, focusing on key statistics and visualizations.
+- **Punjab Kings:** 
+  - Total score: 182 for 7 in 20 overs
+  - Best Batsman: Player B - 68 runs in 50 balls
 
-### Match Summary
-- **Match Date**: 2026-03-30
-- **Teams**: Gujarat Titans vs Punjab Kings
-- **Location**: Narendra Modi Stadium, Ahmedabad
-- **Result**: Gujarat Titans won by X runs/ wickets
-
-### Key Statistics
-- Total Runs Scored: 160 (GT) - 150 (PK)
-- Top Scorer: GT Player A - 60 runs
-- Best Bowler: PK Player B - 4 wickets
-
-### Visualization using Matplotlib
-We have used matplotlib to create compelling visualizations of the match data:
-
-```python
-import matplotlib.pyplot as plt
-
-# Sample data
-teams = ['Gujarat Titans', 'Punjab Kings']
-run_scores = [160, 150]
-
-plt.bar(teams, run_scores, color=['blue', 'red'])
-plt.title('IPL Match Analysis: GT vs PK')
-plt.xlabel('Teams')
-plt.ylabel('Runs Scored')
-plt.show()
-```
-
-This code snippet creates a bar chart to represent the runs scored by both teams during the match.
+## Match Summary
+The match was a thrilling contest, with Gujarat Titans managing to edge out Punjab Kings by 8 runs. The standout players were Player A and the bowlers from Gujarat who played a crucial role in restricting the opponents to a lower score.
