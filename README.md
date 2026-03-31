@@ -16,3 +16,6 @@ This document provides an analysis of the 20-over match played between Gujarat T
 
 ## Match Summary
 The match was a thrilling contest, with Gujarat Titans managing to edge out Punjab Kings by 8 runs. The standout players were Player A and the bowlers from Gujarat who played a crucial role in restricting the opponents to a lower score.
+
+## Tools
+- [Pydroid 3 - Python IDE](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
