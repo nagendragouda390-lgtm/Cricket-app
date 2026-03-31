@@ -1,4 +1,4 @@
-<img src="ipl-logo.png" alt="IPL Logo" width="300" height="auto">
+🏏 <img src="ipl-logo.png" alt="IPL Logo" width="300" height="auto"> 🏏
 
 # IPL 20-Over Match Analysis
 
