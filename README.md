@@ -1,3 +1,5 @@
+![IPL Logo](https://www.iplt20.com/static-assets/img/default-og-image.jpg)
+
 # IPL 20-Over Match Analysis
 
 ## Match Overview
