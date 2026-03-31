@@ -1,4 +1,4 @@
-![IPL Logo](https://www.iplt20.com/static-assets/img/default-og-image.jpg)
+![IPL Logo](ipl-logo.png)
 
 # IPL 20-Over Match Analysis
 
